@@ -83,7 +83,7 @@ Elements of Statistical Learning (Hastie, Tibshirani, & Friedman) - Section 4.5 
 
 [An undergrad's understanding of model selection, page 8](https://www.whitman.edu/Documents/Academics/Mathematics/DeVine.pdf)
 
-**Week 3 Reading: Multi-Armed Bandit Problem and its Solutions
+**Week 3 Reading: Multi-Armed Bandit Problem and its Solutions**
 
 [Hands-on] [My example](
 
