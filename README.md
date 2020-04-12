@@ -8,7 +8,7 @@ This is the repository for all projects and resources related to ML Conversation
 
 [Suggested Topics](#suggested-topics)
 
-[Introduction to the reading group](introductions.md)
+[Introduction to the reading group](introduction.md)
 
 ### Projects
 
